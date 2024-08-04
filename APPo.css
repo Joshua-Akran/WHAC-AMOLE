@@ -1,0 +1,26 @@
+
+.grid{
+    background-image: url(bkg\ img.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    width: 612px;
+    height: 612px;
+    border: 2px solid black;
+   
+
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: transparent;
+
+}
+
+.mole{
+    background-image: url('mole.png');
+    background-size: cover;
+}
